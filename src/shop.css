@@ -1,0 +1,32 @@
+.head_title{
+    background-color: rgba(0, 0, 255, 0.76);
+    height: 100px;
+    color: white;
+    text-align: center;
+    padding: 50px;
+    border-radius: 25px;
+    margin-top: 05px;
+}
+
+.shop_container{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+    padding: 55px;
+    width: 90%;    
+    flex-wrap: wrap;
+}
+
+.small_cont{
+    width: 200px;
+    height: 380px;
+    border-radius: 25px;
+    text-align: center;
+    background-color: #92a9f54b;
+}
+
+.small_cont img{
+    width: 200px;
+    height: 60%;
+    border-radius: 25px;
+}

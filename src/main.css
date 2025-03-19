@@ -1,0 +1,9 @@
+.caro_img img{
+    height: 700px;
+    width: 100%;
+    border-radius: 25px;
+}
+
+.container_main{
+    padding: 20px;
+}
